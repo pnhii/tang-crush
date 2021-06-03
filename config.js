@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'ai bít tại dì teo thỉu năng',
     mess: 'trên báo đưa tin mài thỉu năng lémm',
     messDesc: 'nên là hết dịch mềnh đi chơi nè',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
